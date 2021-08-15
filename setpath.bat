@@ -1,0 +1,1 @@
+set PATH=C:\flutter\1.22.6\bin;%PATH%
